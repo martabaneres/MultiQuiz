@@ -47,7 +47,6 @@ public class QuizActivity extends AppCompatActivity {
         showquestion();
 
 
-
         btn_next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -69,8 +68,6 @@ public class QuizActivity extends AppCompatActivity {
                 }
 
                 }
-
-
 
         });
 
